@@ -69,7 +69,7 @@
 
 
 ## 💬 Let’s Connect
-- 💼 [LinkedIn](www.linkedin.com/in/pallavi-kollipara)  
+- 💼 [LinkedIn] www.linkedin.com/in/pallavi-kollipara  
 - 📧 Email: kolliparapallavi18@gmail.com  
 - 🖤 Passion: Using **data + AI** to improve **healthcare and everyday experiences**.  
 
