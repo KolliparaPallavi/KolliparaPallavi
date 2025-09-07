@@ -53,11 +53,11 @@
  
 
 
-## 📂 Featured Projects
-- 🔬 [Medical AI Marketplace](#) – NLP-powered platform for matching patients with health apps & pilots.  
-- 🎶 [Cloud Music Subscription API](#) – AWS-based subscription system.  
-- 📊 [Big Data Processing with Hadoop/Spark](#) – Trip classification & clustering using MapReduce.  
-- 🌌 [Space Exploration Trends](#) – Data-driven story of global satellite launches.  
+## 📂 Featured Projects  
+- 🎶 [Cloud Music Subscription API](https://github.com/KolliparaPallavi/Cloud-Music-Subscription-App-AWS) - AWS-based subscription system.  
+- 📊 [Big Data Processing with Hadoop/Spark](https://github.com/KolliparaPallavi/hadoop-mapreduce-taxi-analysis) - Trip classification & clustering using MapReduce.  
+- 🌌 [Space Exploration Trends](https://github.com/KolliparaPallavi/CosmicDataStories) - Data-driven story of global satellite launches.  
+- 💼 [Job Search Web Application](https://github.com/KolliparaPallavi/realtime-jobsearch-portal) - A Flask-based job platform where job seekers can search listings and employers can create new jobs. Uses NLP and ML (FastText + Scikit-learn) to recommend job categories, improving relevance and reducing manual errors.
 
 
 
@@ -69,7 +69,7 @@
 
 
 ## 💬 Let’s Connect
-- 💼 [LinkedIn] www.linkedin.com/in/pallavi-kollipara  
+- 💼 [LinkedIn](www.linkedin.com/in/pallavi-kollipara) 
 - 📧 Email: kolliparapallavi18@gmail.com  
 - 🖤 Passion: Using **data + AI** to improve **healthcare and everyday experiences**.  
 
