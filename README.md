@@ -61,11 +61,6 @@
 
 
 
-## 🌱 Currently Learning
-- Advanced **dbt + Airflow orchestration**  
-- **MLOps** best practices for deploying NLP in production  
-- Expanding expertise in **MarTech & Digital Analytics**  
-
 
 
 ## 💬 Let’s Connect
